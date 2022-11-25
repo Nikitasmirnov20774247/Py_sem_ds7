@@ -193,3 +193,65 @@
 2022-11-25 14:30:02,997 - click - INFO - btn_clear: 59 - clearing the field
 2022-11-25 14:30:03,410 - controller - INFO - calculator: 41 - closing the window - (Calculator)
 2022-11-25 14:30:03,410 - main - INFO - <module>: 7 - END main.py
+2022-11-25 18:03:29,696 - main - INFO - <module>: 2 - START main.py
+2022-11-25 18:03:29,696 - controller - DEBUG - calculator: 10 - function call - calculator
+2022-11-25 18:03:29,734 - controller - INFO - calculator: 18 - create: windown - (Calculator)
+2022-11-25 18:03:29,738 - controller - INFO - calculator: 37 - create: gui and buttons
+2022-11-25 18:03:29,738 - controller - INFO - calculator: 39 - opening the window - (Calculator)
+2022-11-25 18:03:33,815 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:33,816 - click - INFO - btn_click: 6 - activate - Button: 9
+2022-11-25 18:03:36,754 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:36,754 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 18:03:36,989 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:36,989 - click - INFO - btn_click: 6 - activate - Button: 9
+2022-11-25 18:03:37,505 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:37,505 - click - INFO - btn_click: 6 - activate - Button: =
+2022-11-25 18:03:37,505 - click - INFO - btn_click: 26 - creat list - ['9', '/', '9']
+2022-11-25 18:03:37,505 - solution - DEBUG - solution: 4 - function call - solution
+2022-11-25 18:03:37,505 - solution - INFO - solution: 18 - complete: division (/) - result = 1.0
+2022-11-25 18:03:37,505 - click - INFO - btn_click: 37 - Calculator result: [1.0]
+2022-11-25 18:03:38,787 - click - DEBUG - btn_clear: 53 - function call - btn_clear
+2022-11-25 18:03:38,788 - click - INFO - btn_clear: 54 - activate: Button - C
+2022-11-25 18:03:38,788 - click - INFO - btn_clear: 59 - clearing the field
+2022-11-25 18:03:40,631 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:40,631 - click - INFO - btn_click: 6 - activate - Button: 6
+2022-11-25 18:03:41,143 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:41,143 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 18:03:42,110 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:42,110 - click - INFO - btn_click: 6 - activate - Button: 3
+2022-11-25 18:03:43,491 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:43,491 - click - INFO - btn_click: 6 - activate - Button: *
+2022-11-25 18:03:45,079 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:45,079 - click - INFO - btn_click: 6 - activate - Button: 2
+2022-11-25 18:03:45,478 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:45,478 - click - INFO - btn_click: 6 - activate - Button: =
+2022-11-25 18:03:45,478 - click - INFO - btn_click: 26 - creat list - ['6', '/', '3', '*', '2']
+2022-11-25 18:03:45,478 - solution - DEBUG - solution: 4 - function call - solution
+2022-11-25 18:03:45,478 - solution - INFO - solution: 18 - complete: division (/) - result = 2.0
+2022-11-25 18:03:45,478 - solution - INFO - solution: 12 - complete: multiplication (*) - result = 4.0
+2022-11-25 18:03:45,478 - click - INFO - btn_click: 37 - Calculator result: [4.0]
+2022-11-25 18:03:48,228 - click - DEBUG - btn_clear: 53 - function call - btn_clear
+2022-11-25 18:03:48,229 - click - INFO - btn_clear: 54 - activate: Button - C
+2022-11-25 18:03:48,229 - click - INFO - btn_clear: 59 - clearing the field
+2022-11-25 18:03:49,042 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:49,042 - click - INFO - btn_click: 6 - activate - Button: 6
+2022-11-25 18:03:49,372 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:49,372 - click - INFO - btn_click: 6 - activate - Button: *
+2022-11-25 18:03:50,934 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:50,934 - click - INFO - btn_click: 6 - activate - Button: 3
+2022-11-25 18:03:52,825 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:52,825 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 18:03:53,349 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:53,349 - click - INFO - btn_click: 6 - activate - Button: 2
+2022-11-25 18:03:53,779 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 18:03:53,780 - click - INFO - btn_click: 6 - activate - Button: =
+2022-11-25 18:03:53,780 - click - INFO - btn_click: 26 - creat list - ['6', '*', '3', '/', '2']
+2022-11-25 18:03:53,780 - solution - DEBUG - solution: 4 - function call - solution
+2022-11-25 18:03:53,780 - solution - INFO - solution: 12 - complete: multiplication (*) - result = 18.0
+2022-11-25 18:03:53,780 - solution - INFO - solution: 18 - complete: division (/) - result = 9.0
+2022-11-25 18:03:53,780 - click - INFO - btn_click: 37 - Calculator result: [9.0]
+2022-11-25 18:03:55,508 - click - DEBUG - btn_clear: 53 - function call - btn_clear
+2022-11-25 18:03:55,508 - click - INFO - btn_clear: 54 - activate: Button - C
+2022-11-25 18:03:55,508 - click - INFO - btn_clear: 59 - clearing the field
+2022-11-25 18:03:56,766 - controller - INFO - calculator: 41 - closing the window - (Calculator)
+2022-11-25 18:03:56,766 - main - INFO - <module>: 7 - END main.py
