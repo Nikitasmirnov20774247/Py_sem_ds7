@@ -1,0 +1,195 @@
+2022-11-25 14:15:09,833 - main - INFO - <module>: 2 - START main.py
+2022-11-25 14:15:09,833 - controller - DEBUG - calculator: 10 - function call - calculator
+2022-11-25 14:15:09,867 - controller - INFO - calculator: 18 - create: windown - (Calculator)
+2022-11-25 14:15:09,870 - controller - INFO - calculator: 37 - create: gui and buttons
+2022-11-25 14:15:09,870 - controller - INFO - calculator: 39 - opening the window - (Calculator)
+2022-11-25 14:15:22,784 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:22,784 - click - INFO - btn_click: 6 - activate - Button: 9
+2022-11-25 14:15:24,154 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:24,155 - click - INFO - btn_click: 6 - activate - Button: +
+2022-11-25 14:15:25,489 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:25,489 - click - INFO - btn_click: 6 - activate - Button: 9
+2022-11-25 14:15:26,683 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:26,683 - click - INFO - btn_click: 6 - activate - Button: -
+2022-11-25 14:15:28,008 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:28,008 - click - INFO - btn_click: 6 - activate - Button: 3
+2022-11-25 14:15:30,225 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:30,225 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 14:15:30,639 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:30,639 - click - INFO - btn_click: 6 - activate - Button: 6
+2022-11-25 14:15:32,908 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:32,908 - click - INFO - btn_click: 6 - activate - Button: +
+2022-11-25 14:15:33,627 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:33,628 - click - INFO - btn_click: 6 - activate - Button: 5
+2022-11-25 14:15:35,994 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:35,994 - click - INFO - btn_click: 6 - activate - Button: *
+2022-11-25 14:15:36,259 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:36,259 - click - INFO - btn_click: 6 - activate - Button: 6
+2022-11-25 14:15:37,011 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:37,012 - click - INFO - btn_click: 6 - activate - Button: =
+2022-11-25 14:15:37,012 - click - INFO - btn_click: 26 - creat list - ['9', '+', '9', '-', '3', '/', '6', '+', '5', '*', '6']
+2022-11-25 14:15:37,012 - solution - DEBUG - solution: 4 - function call - solution
+2022-11-25 14:15:37,012 - solution - INFO - solution: 11 - complete: multiplication (*) - result = 30.0
+2022-11-25 14:15:37,012 - solution - INFO - solution: 19 - complete: division (/) - result = 0.5
+2022-11-25 14:15:37,012 - solution - INFO - solution: 28 - complete: sum (+) - result = 18.0
+2022-11-25 14:15:37,012 - solution - INFO - solution: 34 - complete: subtraction (-) - result = 17.5
+2022-11-25 14:15:37,012 - solution - INFO - solution: 28 - complete: sum (+) - result = 47.5
+2022-11-25 14:15:37,012 - click - INFO - btn_click: 37 - Calculator result: [47.5]
+2022-11-25 14:15:40,819 - click - DEBUG - btn_clear: 53 - function call - btn_clear
+2022-11-25 14:15:40,819 - click - INFO - btn_clear: 54 - activate: Button - C
+2022-11-25 14:15:40,819 - click - INFO - btn_clear: 59 - clearing the field
+2022-11-25 14:15:45,067 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:45,067 - click - INFO - btn_click: 6 - activate - Button: 4
+2022-11-25 14:15:45,733 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:45,733 - click - INFO - btn_click: 6 - activate - Button: .
+2022-11-25 14:15:46,070 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:46,071 - click - INFO - btn_click: 6 - activate - Button: 4
+2022-11-25 14:15:48,416 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:48,416 - click - INFO - btn_click: 6 - activate - Button: +
+2022-11-25 14:15:48,903 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:48,903 - click - INFO - btn_click: 6 - activate - Button: 7
+2022-11-25 14:15:49,519 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:49,519 - click - INFO - btn_click: 6 - activate - Button: .
+2022-11-25 14:15:49,973 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:49,973 - click - INFO - btn_click: 6 - activate - Button: 9
+2022-11-25 14:15:52,290 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:52,290 - click - INFO - btn_click: 6 - activate - Button: +
+2022-11-25 14:15:52,767 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:52,767 - click - INFO - btn_click: 6 - activate - Button: 3
+2022-11-25 14:15:56,554 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:56,554 - click - INFO - btn_click: 6 - activate - Button: +
+2022-11-25 14:15:57,391 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:57,391 - click - INFO - btn_click: 6 - activate - Button: 5
+2022-11-25 14:15:57,871 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:15:57,871 - click - INFO - btn_click: 6 - activate - Button: .
+2022-11-25 14:16:01,196 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:01,197 - click - INFO - btn_click: 6 - activate - Button: 2
+2022-11-25 14:16:03,408 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:03,408 - click - INFO - btn_click: 6 - activate - Button: +
+2022-11-25 14:16:06,751 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:06,751 - click - INFO - btn_click: 6 - activate - Button: 8
+2022-11-25 14:16:14,468 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:14,468 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 14:16:16,991 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:16,991 - click - INFO - btn_click: 6 - activate - Button: 4
+2022-11-25 14:16:20,626 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:20,626 - click - INFO - btn_click: 6 - activate - Button: +
+2022-11-25 14:16:21,534 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:21,534 - click - INFO - btn_click: 6 - activate - Button: 3
+2022-11-25 14:16:24,257 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:24,257 - click - INFO - btn_click: 6 - activate - Button: *
+2022-11-25 14:16:24,927 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:24,927 - click - INFO - btn_click: 6 - activate - Button: 4
+2022-11-25 14:16:30,567 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:30,567 - click - INFO - btn_click: 6 - activate - Button: -
+2022-11-25 14:16:31,625 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:31,625 - click - INFO - btn_click: 6 - activate - Button: 2
+2022-11-25 14:16:32,447 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:32,448 - click - INFO - btn_click: 6 - activate - Button: =
+2022-11-25 14:16:32,448 - click - INFO - btn_click: 26 - creat list - ['4.4', '+', '7.9', '+', '3', '+', '5.2', '+', '8', '/', '4', '+', '3', '*', '4', '-', '2']
+2022-11-25 14:16:32,448 - solution - DEBUG - solution: 4 - function call - solution
+2022-11-25 14:16:32,448 - solution - INFO - solution: 11 - complete: multiplication (*) - result = 12.0
+2022-11-25 14:16:32,448 - solution - INFO - solution: 19 - complete: division (/) - result = 2.0
+2022-11-25 14:16:32,448 - solution - INFO - solution: 28 - complete: sum (+) - result = 12.3
+2022-11-25 14:16:32,448 - solution - INFO - solution: 28 - complete: sum (+) - result = 15.3
+2022-11-25 14:16:32,448 - solution - INFO - solution: 28 - complete: sum (+) - result = 20.5
+2022-11-25 14:16:32,448 - solution - INFO - solution: 28 - complete: sum (+) - result = 22.5
+2022-11-25 14:16:32,448 - solution - INFO - solution: 28 - complete: sum (+) - result = 34.5
+2022-11-25 14:16:32,448 - solution - INFO - solution: 34 - complete: subtraction (-) - result = 32.5
+2022-11-25 14:16:32,449 - click - INFO - btn_click: 37 - Calculator result: [32.5]
+2022-11-25 14:16:42,620 - click - DEBUG - btn_clear: 53 - function call - btn_clear
+2022-11-25 14:16:42,620 - click - INFO - btn_clear: 54 - activate: Button - C
+2022-11-25 14:16:42,620 - click - INFO - btn_clear: 59 - clearing the field
+2022-11-25 14:16:43,037 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:43,037 - click - INFO - btn_click: 6 - activate - Button: 9
+2022-11-25 14:16:43,382 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:43,382 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 14:16:43,578 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:43,578 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 14:16:43,806 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:43,806 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 14:16:44,882 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:44,882 - click - INFO - btn_click: 6 - activate - Button: =
+2022-11-25 14:16:44,882 - click - INFO - btn_click: 26 - creat list - ['9', '/', '', '/', '', '/', '/']
+2022-11-25 14:16:44,882 - solution - DEBUG - solution: 4 - function call - solution
+2022-11-25 14:16:44,882 - click - ERROR - btn_click: 47 - incorrect syntax
+2022-11-25 14:16:45,604 - click - DEBUG - btn_clear: 53 - function call - btn_clear
+2022-11-25 14:16:45,604 - click - INFO - btn_clear: 54 - activate: Button - C
+2022-11-25 14:16:45,604 - click - INFO - btn_clear: 59 - clearing the field
+2022-11-25 14:16:46,015 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:46,015 - click - INFO - btn_click: 6 - activate - Button: 9
+2022-11-25 14:16:46,278 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:46,278 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 14:16:46,744 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:46,744 - click - INFO - btn_click: 6 - activate - Button: 0
+2022-11-25 14:16:47,181 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:16:47,181 - click - INFO - btn_click: 6 - activate - Button: =
+2022-11-25 14:16:47,181 - click - INFO - btn_click: 26 - creat list - ['9', '/', '0']
+2022-11-25 14:16:47,181 - solution - DEBUG - solution: 4 - function call - solution
+2022-11-25 14:16:47,181 - click - ERROR - btn_click: 43 - division by zero
+2022-11-25 14:16:47,866 - click - DEBUG - btn_clear: 53 - function call - btn_clear
+2022-11-25 14:16:47,866 - click - INFO - btn_clear: 54 - activate: Button - C
+2022-11-25 14:16:47,866 - click - INFO - btn_clear: 59 - clearing the field
+2022-11-25 14:16:49,135 - controller - INFO - calculator: 41 - closing the window - (Calculator)
+2022-11-25 14:16:49,135 - main - INFO - <module>: 7 - END main.py
+2022-11-25 14:21:43,732 - main - INFO - <module>: 2 - START main.py
+2022-11-25 14:21:43,732 - controller - DEBUG - calculator: 10 - function call - calculator
+2022-11-25 14:21:43,766 - controller - INFO - calculator: 18 - create: windown - (Calculator)
+2022-11-25 14:21:43,769 - controller - INFO - calculator: 37 - create: gui and buttons
+2022-11-25 14:21:43,769 - controller - INFO - calculator: 39 - opening the window - (Calculator)
+2022-11-25 14:21:47,133 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:21:47,133 - click - INFO - btn_click: 6 - activate - Button: 9
+2022-11-25 14:21:47,667 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:21:47,668 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 14:21:47,829 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:21:47,829 - click - INFO - btn_click: 6 - activate - Button: /
+2022-11-25 14:21:48,740 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:21:48,740 - click - INFO - btn_click: 6 - activate - Button: 9
+2022-11-25 14:21:49,253 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:21:49,253 - click - INFO - btn_click: 6 - activate - Button: =
+2022-11-25 14:21:49,253 - click - INFO - btn_click: 26 - creat list - ['9', '/', '', '/', '9']
+2022-11-25 14:21:49,253 - solution - DEBUG - solution: 4 - function call - solution
+2022-11-25 14:21:49,253 - solution - INFO - solution: 19 - complete: division (/) - result = 1.0
+2022-11-25 14:21:49,253 - click - ERROR - btn_click: 47 - incorrect syntax
+2022-11-25 14:21:50,320 - click - DEBUG - btn_clear: 53 - function call - btn_clear
+2022-11-25 14:21:50,320 - click - INFO - btn_clear: 54 - activate: Button - C
+2022-11-25 14:21:50,320 - click - INFO - btn_clear: 59 - clearing the field
+2022-11-25 14:21:50,959 - controller - INFO - calculator: 41 - closing the window - (Calculator)
+2022-11-25 14:21:50,959 - main - INFO - <module>: 7 - END main.py
+2022-11-25 14:29:49,523 - main - INFO - <module>: 2 - START main.py
+2022-11-25 14:29:49,523 - controller - DEBUG - calculator: 10 - function call - calculator
+2022-11-25 14:29:49,561 - controller - INFO - calculator: 18 - create: windown - (Calculator)
+2022-11-25 14:29:49,563 - controller - INFO - calculator: 37 - create: gui and buttons
+2022-11-25 14:29:49,563 - controller - INFO - calculator: 39 - opening the window - (Calculator)
+2022-11-25 14:29:53,745 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:29:53,745 - click - INFO - btn_click: 6 - activate - Button: 6
+2022-11-25 14:29:54,455 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:29:54,455 - click - INFO - btn_click: 6 - activate - Button: +
+2022-11-25 14:29:55,016 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:29:55,016 - click - INFO - btn_click: 6 - activate - Button: 4
+2022-11-25 14:29:55,923 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:29:55,923 - click - INFO - btn_click: 6 - activate - Button: -
+2022-11-25 14:29:56,381 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:29:56,381 - click - INFO - btn_click: 6 - activate - Button: 5
+2022-11-25 14:29:57,858 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:29:57,858 - click - INFO - btn_click: 6 - activate - Button: +
+2022-11-25 14:29:59,488 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:29:59,488 - click - INFO - btn_click: 6 - activate - Button: 5
+2022-11-25 14:30:00,120 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:30:00,120 - click - INFO - btn_click: 6 - activate - Button: *
+2022-11-25 14:30:00,561 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:30:00,561 - click - INFO - btn_click: 6 - activate - Button: 2
+2022-11-25 14:30:01,133 - click - DEBUG - btn_click: 5 - function call - btn_clic
+2022-11-25 14:30:01,133 - click - INFO - btn_click: 6 - activate - Button: =
+2022-11-25 14:30:01,133 - click - INFO - btn_click: 26 - creat list - ['6', '+', '4', '-', '5', '+', '5', '*', '2']
+2022-11-25 14:30:01,133 - solution - DEBUG - solution: 4 - function call - solution
+2022-11-25 14:30:01,133 - solution - INFO - solution: 11 - complete: multiplication (*) - result = 10.0
+2022-11-25 14:30:01,133 - solution - INFO - solution: 28 - complete: sum (+) - result = 10.0
+2022-11-25 14:30:01,133 - solution - INFO - solution: 34 - complete: subtraction (-) - result = 5.0
+2022-11-25 14:30:01,133 - solution - INFO - solution: 28 - complete: sum (+) - result = 15.0
+2022-11-25 14:30:01,133 - click - INFO - btn_click: 37 - Calculator result: [15.0]
+2022-11-25 14:30:02,997 - click - DEBUG - btn_clear: 53 - function call - btn_clear
+2022-11-25 14:30:02,997 - click - INFO - btn_clear: 54 - activate: Button - C
+2022-11-25 14:30:02,997 - click - INFO - btn_clear: 59 - clearing the field
+2022-11-25 14:30:03,410 - controller - INFO - calculator: 41 - closing the window - (Calculator)
+2022-11-25 14:30:03,410 - main - INFO - <module>: 7 - END main.py
